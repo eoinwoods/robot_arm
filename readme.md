@@ -7,6 +7,8 @@ Python Code to drive the Maplin/OWI USB Robot arm
 
 Requirements
 ============
+
+[![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/eoinwoods/robot_arm?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 * Python 2.7 or 3.0
 * Libusb
 * pyusb
