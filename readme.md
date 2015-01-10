@@ -119,3 +119,13 @@ and add:
 Plug in the device and you should be able to access it. Tested on Ubuntu and Mint Linux versions.
 
 
+
+Related Work
+============
+
+* The original reverse engineering of the UBS protocol was done by 
+[Vadim Zaliva](http://www.crocodile.org/lord/) and published on [his blog] (http://notbrainsurgery.livejournal.com/38622.html)
+* An alternative Objective-C control program is [here](https://armctrl.codeplex.com)
+* Maplin's product information on their [web site](http://www.maplin.co.uk/robotic-arm-kit-with-usb-pc-interface-266257)
+* OWI (manufacturer) information [here](http://www.owirobots.com/cart/catalog/OWI-535USB-ROBOTIC-ARM-KIT-with-USB-PC-INTERFACE-Assembled-103.html)
+
